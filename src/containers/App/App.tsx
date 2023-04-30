@@ -1,8 +1,11 @@
+import { Shop } from '../Shop/Shop';
 import './App.css';
 
 function App() {
   return (
-    <div></div>
+    <div>
+			<Shop />
+		</div>
   );
 }
 
